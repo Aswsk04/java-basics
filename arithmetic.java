@@ -10,7 +10,7 @@ class arithmetic {
     
 
         System.out.println("The sum is:"+  (N1+N2));
-        System.out.println("The Sub is: "+ (N1-N2));
+        System.out.println("The Sub is:"+ (N1-N2));
         System.out.println("The Mul is:"+  (N1*N2));
         System.out.println("The div is:"+  (N1/N2));
     }
